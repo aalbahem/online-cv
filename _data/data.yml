@@ -132,17 +132,45 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Meta-Evaluation of Dynamic Search: How Do Metrics Capture Topical Relevance, Diversity
+and User Effort?"
+        authors: A Albahem, D Spina, F Scholer and L Cavedon.
+        conference: In Proc. ECIR, 2019.
+      - title: "Desirable Properties for Diversity and Truncated Effectiveness Metrics"
+        authors: A Albahem, D Spina, F Scholer, A Moffat, L Cavedon.
+        conference: "ADCS 2018"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "QweetFinder: Real-Time Finding and Filtering of Question Tweets. "
+        authors: A Albahem, M Hasanain, M Torki, T Elsayed.
+        conference: ECIR 2017
+        
+      - title: RMIT TREC 2016 Dynamic Domain Track: Exploiting Passage Representation for Retrieval and Relevance Feedback
+      - authors: A Albahem, D Spina, L Cavedon, F Scholer
+      - conference: TREC, 2016
+      
+      - title: Multi document summarization based on news components using fuzzy cross-document relations.
+      - authors: Y Kumar, N Salim, A Abuobieda, AT Albaham
+      - conference:  Appl Soft Comput, 2014.
+      
+      - title: Quality biased thread retrieval using the voting model. 
+      - authors: AT Albaham, N Salim. 
+      - conference: ADCS, 2013.
+      
+      - title: Leveraging post level quality indicators in online forum thread retrieval. 
+      - authors: AT lbaham, N Salim, OI Adekunle.
+      - conference: DaEng, 2013.
+      
+      - title: Meta search models for online forum thread retrieval: Research in progress. 
+      - authors: AT Albaham, N Salim. 
+      - conference: ACIIDS, 2013.
+      
+      - title: Online forum thread retrieval using pseudo cluster selection and voting techniques. 
+      - authors: AT Albaham, N Salim.
+      - conference: ICS, 2012.
+      
+      - title: Adapting Voting Techniques for Online Forum Thread Retrieval. 
+      - authors: AT Albaham, N Salim. 
+      - conference: AMLTA, 2012.
 
 skills:
     title: Skills &amp; Proficiency
