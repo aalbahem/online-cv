@@ -144,31 +144,31 @@ and User Effort?"
         authors: A Albahem, M Hasanain, M Torki, T Elsayed.
         conference: ECIR 2017
         
-      - title: RMIT TREC 2016 Dynamic Domain Track: Exploiting Passage Representation for Retrieval and Relevance Feedback
+      - title: "RMIT TREC 2016 Dynamic Domain Track: Exploiting Passage Representation for Retrieval and Relevance Feedback"
       - authors: A Albahem, D Spina, L Cavedon, F Scholer
       - conference: TREC, 2016
       
-      - title: Multi document summarization based on news components using fuzzy cross-document relations.
+      - title: "Multi document summarization based on news components using fuzzy cross-document relations"
       - authors: Y Kumar, N Salim, A Abuobieda, AT Albaham
       - conference:  Appl Soft Comput, 2014.
       
-      - title: Quality biased thread retrieval using the voting model. 
+      - title: "Quality biased thread retrieval using the voting model." 
       - authors: AT Albaham, N Salim. 
       - conference: ADCS, 2013.
       
-      - title: Leveraging post level quality indicators in online forum thread retrieval. 
+      - title: "Leveraging post level quality indicators in online forum thread retrieval" 
       - authors: AT lbaham, N Salim, OI Adekunle.
       - conference: DaEng, 2013.
       
-      - title: Meta search models for online forum thread retrieval: Research in progress. 
+      - title: "Meta search models for online forum thread retrieval: Research in progress." 
       - authors: AT Albaham, N Salim. 
       - conference: ACIIDS, 2013.
       
-      - title: Online forum thread retrieval using pseudo cluster selection and voting techniques. 
+      - title: "Online forum thread retrieval using pseudo cluster selection and voting techniques." 
       - authors: AT Albaham, N Salim.
       - conference: ICS, 2012.
       
-      - title: Adapting Voting Techniques for Online Forum Thread Retrieval. 
+      - title: "Adapting Voting Techniques for Online Forum Thread Retrieval."
       - authors: AT Albaham, N Salim. 
       - conference: AMLTA, 2012.
 
