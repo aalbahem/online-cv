@@ -35,25 +35,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I am a PhD student at RMIT doing research in utilizing user feedback in interactive complex search.
+      I am also a search and text analytics consultant where I help compaines building search based applications using Apache Lucene, Solr, Nutch and Elasticsearch.
 
 education:
     - degree: PhD in Computer Science
       university: RMIT University
-      time: 2016 - 2020
+      time: 2020
       details: |
         Researching how to evaluate and improve search in interactive media and scearnios
     - degree: Master of Computer Science
       university: Universiti Teknologi Malaysia
-      time: 2010 - 2013
+      time: 2013
       details: |
         Research improving search on online forums.
+    - degree: Bachelor of Information Tecknology
+    - university: Multimedia University, Malaysia
+    - time: 2009
 experiences:
     - role: Lead Developer
       time: 2015 - Present
